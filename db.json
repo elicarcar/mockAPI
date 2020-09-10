@@ -1,12 +1,12 @@
 {
   "visitors": [
     {
-      "email":"eli@gmail.com"
-      "fullName":"Elisabetta Carcar"
-      "id":"bdd866a4-cc33-4c05-bafc-f154e9f7f3fa"
-      "isLogged":true
-      "person":"4"
-      "visitorId":"17"
+      "email":"eli@gmail.com",
+      "fullName":"Elisabetta Carcar",
+      "id":"bdd866a4-cc33-4c05-bafc-f154e9f7f3fa",
+      "isLogged":true,
+      "person":"4",
+      "visitorId":"17",
     }
   ]
 }
